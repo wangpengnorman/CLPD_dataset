@@ -16,5 +16,7 @@ It can be downloaded from  [BaiduYun Drive(code: dt11)](https://pan.baidu.com/s/
 The annotation information of the picture is in CLPD.csv, each line contains the picture path, the upper left corner point (x1, y1) the upper right corner point (x2, y2), the lower right corner point (x3, y3), the lower left corner point (x4, y4) and label.
 
 
-Please note that the label contains Chinese characters and is encoded in ‘GBK’ format on Windows 10. If you are using it in a Linux system, please convert the label to ‘UTF-8’ format.
+**Please note that the label contains Chinese characters and is encoded in ‘GBK’ format on Windows 10. If you are using it in a Linux system, please convert the label to ‘UTF-8’ format.**
+
+If you have any questions, you can email me directly at 1661904475@qq.com, I can reply you as soon as possible. I have very few times on GitHub, please email me directly, thank you
 
