@@ -18,5 +18,5 @@ The annotation information of the picture is in CLPD.csv, each line contains the
 
 **Please note that the label contains Chinese characters and is encoded in ‘GBK’ format on Windows 10. If you are using it in a Linux system, please convert the label to ‘UTF-8’ format.**
 
-If you have any questions, you can email me directly at 1661904475@qq.com, I can reply you as soon as possible. I have very few times on GitHub, please email me directly, thank you
+If you have any questions, you can email me directly at  zhanglinjiang@mail.nwpu.edu.cn , I can reply you as soon as possible. I have very few times on GitHub, please email me directly, thank you
 
